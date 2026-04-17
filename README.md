@@ -89,7 +89,7 @@ The goal was to deliver a **fast, responsive, and cross-platform solution** inte
 
 This project demonstrates strong expertise in:
 - Scalable frontend architecture (React + TypeScript)
-- Enterprise backend integration (Django REST)
+- Enterprise backend integration (.Net REST)
 - OCR and image processing workflows
 - Secure authentication systems (Keycloak)
 - PWA deployment strategies for production environments
