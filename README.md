@@ -15,7 +15,7 @@ However, you can view the results, demo, and related materials below.
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="./img/main.png" width="900"/>
+  <img src="./main.png" width="900"/>
 </p>
 
 
