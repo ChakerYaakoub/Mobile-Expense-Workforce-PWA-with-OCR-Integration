@@ -45,7 +45,7 @@ However, you can view the results, demo, and related materials below.
 </p>
 
 <p align="center">
-  <img src="./7.web" width="900"/>
+  <img src="./7.webp" width="900"/>
 </p>
 
 ---
