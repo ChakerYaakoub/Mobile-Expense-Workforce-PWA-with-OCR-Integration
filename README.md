@@ -21,27 +21,27 @@ However, you can view the results, demo, and related materials below.
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="./1.web" width="900"/>
+  <img src="./1.webp" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./2.web" width="900"/>
+  <img src="./2.webp" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./3.web" width="900"/>
+  <img src="./3.webp" width="900"/>
 </p>
 
 <p align="center">
-    <img src="./4.web" width="900"/>
+    <img src="./4.webp" width="900"/>
 </p>
 
 <p align="center">
-   <img src="./5.web" width="900"/>
+   <img src="./5.webp" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./6.web" width="900"/>
+  <img src="./6.webp" width="900"/>
 </p>
 
 <p align="center">
