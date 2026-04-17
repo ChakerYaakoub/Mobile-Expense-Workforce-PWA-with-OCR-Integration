@@ -8,16 +8,45 @@ However, you can view the results, demo, and related materials below.
 ---
 
 ## 📽️ Demo Video
-- YouTube: https://youtu.be/LO-XIZR-TFg
+- [Watch Demo on YouTube](https://youtu.be/LO-XIZR-TFg)
+
+---
+
+
+## 📽️ Project Overview  
+- [Read Full Project Overview](https://yaakoub-chaker-bteit.web.app/news/mobile-expense-workforce-pwa-with-ocr-integration-zumn09tGNZADlKHZM66S)
 
 ---
 
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="./main.png" width="900"/>
+  <img src="./1.web" width="900"/>
 </p>
 
+<p align="center">
+  <img src="./2.web" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./3.web" width="900"/>
+</p>
+
+<p align="center">
+    <img src="./4.web" width="900"/>
+</p>
+
+<p align="center">
+   <img src="./5.web" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./6.web" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./7.web" width="900"/>
+</p>
 
 ---
 
@@ -79,17 +108,11 @@ The goal was to deliver a **fast, responsive, and cross-platform solution** inte
 ## 🛠️ Tech Stack
 
 - React.js + TypeScript
-- Django
+- .NET
 - PostgreSQL
 - Keycloak
 - Nginx
 - Tesseract.js
-
----
-
-## 🔗 Links & References
-
-- Portfolio page: https://yaakoub-chaker-bteit.web.app/news/mobile-expense-workforce-pwa-with-ocr-integration-zumn09tGNZADlKHZM66S
 
 ---
 
