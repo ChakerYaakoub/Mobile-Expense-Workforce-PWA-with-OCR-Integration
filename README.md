@@ -8,7 +8,16 @@ However, you can view the results, demo, and related materials below.
 ---
 
 ## 📽️ Demo Video
-- YouTube: *(https://youtu.be/LO-XIZR-TFg)*
+- YouTube: https://youtu.be/LO-XIZR-TFg
+
+---
+
+## 🖼️ Project Preview
+
+<p align="center">
+  <img src="./img/main.png" width="900"/>
+</p>
+
 
 ---
 
@@ -50,7 +59,7 @@ The goal was to deliver a **fast, responsive, and cross-platform solution** inte
 
 - **Client-Server Architecture**
   - Frontend: React + TypeScript
-  - Backend: Django REST APIs
+  - Backend: .NET REST APIs
 
 - **Authentication System**
   - Secure authentication via **Keycloak**
@@ -76,12 +85,11 @@ The goal was to deliver a **fast, responsive, and cross-platform solution** inte
 - Nginx
 - Tesseract.js
 
-
 ---
 
 ## 🔗 Links & References
 
-- Portfolio page: *(https://yaakoub-chaker-bteit.web.app/news/mobile-expense-workforce-pwa-with-ocr-integration-zumn09tGNZADlKHZM66S)*
+- Portfolio page: https://yaakoub-chaker-bteit.web.app/news/mobile-expense-workforce-pwa-with-ocr-integration-zumn09tGNZADlKHZM66S
 
 ---
 
@@ -89,7 +97,7 @@ The goal was to deliver a **fast, responsive, and cross-platform solution** inte
 
 This project demonstrates strong expertise in:
 - Scalable frontend architecture (React + TypeScript)
-- Enterprise backend integration (.Net REST)
+- Enterprise backend integration (.NET REST APIs)
 - OCR and image processing workflows
 - Secure authentication systems (Keycloak)
 - PWA deployment strategies for production environments
